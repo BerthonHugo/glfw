@@ -101,3 +101,9 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+
+# Binaries
+**/bin/
+!vendor/bin/premake/
+bin-int/
+
